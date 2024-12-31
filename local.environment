@@ -1,0 +1,4 @@
+# Usage: This file is used to store all the environment variables that are used in the project.
+# if you phase any issue in the project then you can check the environment variables in this file.
+
+VITE_CLERK_PUBLISHABLE_KEY= "YOUR_CLERK_PUBLISHABLE_KEY"
